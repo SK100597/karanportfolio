@@ -1,0 +1,7 @@
+@media only screen and (max-width:1024px) {
+
+    main > section.about_personal_details > .photo_personal_details > .personal_details1 > .personal_details2 > div  {
+        color: red;
+    }
+
+}
